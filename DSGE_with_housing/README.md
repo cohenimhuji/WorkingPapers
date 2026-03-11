@@ -11,9 +11,9 @@ Alex Ilek*, Nimrod Cohen**, and Yaakov Chen-Zion***
 
 *We are grateful to Yossi Yakhin for his insightful discussion and valuable comments, which greatly contributed to improving this paper. We also thank Oren Levintal for his discussion, and Adi Brender, Eliezer Borenstein, Alon Benyamini, Yoav Friedman, Sigal Ribon, and the other participants in the Bank of Israel Research Department seminar for their helpful feedback and suggestions.*
 
- [General Appendix](dsge_w_housing_11_3_2026_appx.docx)
+ [General Appendix](dsge_w_housing_11_3_2026_appx.pdf)
  
  [Technical Appendix](dsge_w_housing_11_3_2026_appx_technical.pdf) 
  
- [Dynare Code](Dynare)
+ [Dynare Code - TBC](Dynare)
  
