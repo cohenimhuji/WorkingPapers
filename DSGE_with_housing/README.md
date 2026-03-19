@@ -15,5 +15,5 @@ Alex Ilek*, Nimrod Cohen**, and Yaakov Chen-Zion***
  
  [Technical Appendix](dsge_w_housing_11_3_2026_appx_technical.pdf) 
  
- [Dynare Code](DSGE_with_housing/dynare_dsge_housing_19_3_2026)
+ [Dynare Code](WorkingPapers/DSGE_with_housing/dynare_dsge_housing_19_3_2026)
  
