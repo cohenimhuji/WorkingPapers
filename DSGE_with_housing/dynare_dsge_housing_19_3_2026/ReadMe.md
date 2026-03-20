@@ -17,6 +17,6 @@ run_all.m
 ### Figure 5
 From the main directory, run:
 
-Plot_n_Compare_IRFs_fixed_vs_variable_Nimrod_2026_03_01.m
+Plot_n_Compare_IRFs_fixed_vs_variable_19_3_2026.m
 
 If needed, this README can be extended with installation instructions, folder structure, or sample outputs.
