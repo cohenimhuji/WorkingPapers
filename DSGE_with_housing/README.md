@@ -19,3 +19,4 @@ Alex Ilek*, Nimrod Cohen**, and Yaakov Chen-Zion***
  
  [Dynare Code](dynare_dsge_housing_19_3_2026/)
  
+This project is licensed under the terms of the [MIT License](../LICENSE).
