@@ -12,3 +12,5 @@ From the analysis of the reaction of the economy to the debt deleveraging in the
 interest rate is not subject to the effective lower bound. In fact, the analysis illustrates the importance of an effective monetary policy in the course of a financial crisis, because monetary expansion is critical in this situation and prevents a crisis which is much more acute. 
 
  [Dynare Code](Dynare)
+
+This project is licensed under the terms of the [MIT License](../LICENSE).
