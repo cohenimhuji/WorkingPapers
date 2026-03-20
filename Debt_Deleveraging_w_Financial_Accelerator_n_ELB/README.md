@@ -1,6 +1,6 @@
 # Debt Deleveraging with Financial Accelerator
  
- ** Abstract: **
+ **Abstract:**
 
  This research examines a model of an economic-financial crisis caused by a sudden debt deleveraging in the economy. In this type of a crisis, demand is contracted, and the monetary interest rate may drop to its effective lower bound – a phenomenon called the "liquidity trap" – in such a way, that the monetary policy is restricted in its response (Eggertsson and Woodford, 
 2003). At the same time, there are other mechanisms that may intensify the crisis, such as the mechanism of the "financial accelerator" (Bernanke et al., 1999), and the mechanism of the "debt deflation" (Eggertsson and Krugman, 2012). Therefore, we are induced to question, what is the "contribution" of those various mechanisms to this crisis, and in particular - what is the interaction between those mechanisms. 
