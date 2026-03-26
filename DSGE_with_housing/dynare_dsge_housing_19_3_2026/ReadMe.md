@@ -1,7 +1,7 @@
 # Building All Impulse Response Functions (IRFs)
 
 All simulations and plotting are done in **MATLAB (R2025b)**, though earlier versions should also work.
-The models are solved using **Dynare 6.5**.
+The models are solved using **Dynare 6.5** (can be used with Dynare 7.0).
 
 Before running any scripts, make sure to add the functions folder to your MATLAB path:
 
