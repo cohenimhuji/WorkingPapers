@@ -3,7 +3,12 @@
 Alex Ilek*, Nimrod Cohen**, and Yaakov Chen-Zion***
 
 
-**Abstract**: We develop and calibrate a dynamic stochastic general equilibrium (DSGE) model tailored to the Israeli economy, incorporating key features of its housing market—both ownership and rental segments—and household heterogeneity. The model is used to analyze the effects of monetary and macroprudential policies, as well as their interaction, on the housing market and the broader economy. Specifically, we examine how macroprudential measures—such as changes in the loan‑to‑value (LTV) ratio and restrictions on the share of time‑varying‑rate mortgages—affect the ability of monetary policy to achieve its objectives of price and real activity stability, and how these tools influence housing market outcomes, including mortgage volumes and housing prices.
+**Abstract**: 
+
+We develop and calibrate a dynamic stochastic general equilibrium (DSGE) model tailored to the Israeli economy that incorporates key features of the housing market, including both owner‑occupied and rental segments, as well as household heterogeneity. The model is used to study the effects of monetary and macroprudential policies, and their interaction, on housing market dynamics and the broader macroeconomy. In particular, we assess how macroprudential tools—such as loan‑to‑value (LTV) limits and restrictions on the share of variable‑rate mortgages—affect housing market outcomes, including mortgage volumes and house prices, and whether they influence the ability of monetary policy to achieve its objectives of price stability and real activity stabilization. 
+
+Our analysis yields two main findings. First, macroprudential measures such as limits on the share of variable-rate mortgages or changes in LTV caps do not materially alter the transmission of monetary policy to house prices. Second, tighter LTV constraints are highly effective in reducing leverage but have only a modest effect on house prices.
+
 
 *	*Alex Ilek – Research Department, Bank of Israel. Email: alexei.ilek@boi.org.il
 * **	Nimrod Cohen– Research Department, Bank of Israel. Email: nimrod.cohen@boi.org.il
